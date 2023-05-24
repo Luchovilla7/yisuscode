@@ -36,6 +36,7 @@ body{
 
 span {
     color: var(--accentColor);
+    font-style: italic;
 }
 
 #links{
