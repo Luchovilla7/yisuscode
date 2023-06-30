@@ -30,7 +30,7 @@ body{
 
 #userName{
     color: #fff;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-weight: 600;
     line-height: 1.25;
     display: block;
@@ -38,6 +38,7 @@ body{
     text-align: center;
     text-decoration: none;
     font-family: var(--font);
+    margin: 12px;
 }
 
 div #userName:hover {
