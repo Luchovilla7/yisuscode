@@ -22,16 +22,27 @@ body{
     border-radius: 50%;
 }
 
+.socialIcon {
+    display: flex;
+    margin: auto;
+    width: 15%;
+}
+
 #userName{
-    color: #bbb;
-    font-size: 1rem;
+    color: #fff;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 1.25;
     display: block;
-    font-family: var(--font);
     width: 100%;
     text-align: center;
     text-decoration: none;
+    font-family: var(--font);
+}
+
+div #userName:hover {
+    color: var(--accentColor);
+    transition: all .2s ease;
 }
 
 span {
