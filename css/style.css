@@ -25,6 +25,7 @@ body{
 .socialIcon {
     display: flex;
     margin: auto;
+    justify-content: center;
     width: 15%;
 }
 
@@ -34,11 +35,10 @@ body{
     font-weight: 600;
     line-height: 1.25;
     display: block;
-    width: 100%;
     text-align: center;
     text-decoration: none;
     font-family: var(--font);
-    margin: 12px;
+    padding: 1rem;
 }
 
 div #userName:hover {
