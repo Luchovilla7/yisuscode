@@ -24,7 +24,7 @@ body{
 
 .socialIcon {
     display: flex;
-    margin: auto;
+    margin: 7px auto;
     justify-content: center;
     width: 15%;
 }
