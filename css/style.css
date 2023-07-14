@@ -41,11 +41,6 @@ body{
     padding: 1rem;
 }
 
-div #userName:hover {
-    color: var(--accentColor);
-    transition: all .2s ease;
-}
-
 span {
     color: var(--accentColor);
     font-style: italic;
